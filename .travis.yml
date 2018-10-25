@@ -1,0 +1,4 @@
+language: python
+	- "3.4.1"
+script:
+	- ./runtests.sh
